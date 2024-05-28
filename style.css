@@ -148,16 +148,16 @@ font-size: 20px;
 }
 .facebook-list-wrapper-2 {
     position: relative;
-    top:5650px ;
+    top:5620px ;
 
 }
 .facebook-list-wrapper-3 {
     position: relative;
-    top:11200px;
+    top:11400px;
 }
 .facebook-list-wrapper-4 {
     position: relative;
-    top:14500px;
+    top:13500px;
 }
 
 .facebook-list {
@@ -291,7 +291,7 @@ font-size: 20px;
     width: 100%;
     position: absolute;
     background-color: #151515;
-    top: 500px;
+    top: 490px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
@@ -304,7 +304,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin:20px 0 ;
-    top: 2460px;
+    top: 2453px;
 }
 .post-container-3 {
     width: 100%;
@@ -332,7 +332,7 @@ font-size: 20px;
     border-radius: 6PX;
     color: aliceblue;
     margin: 20PX 0;
-    top: 7820PX;
+    top: 7870PX;
 }
 
 .post-container-6 {
@@ -342,7 +342,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20PX 0;
-    top: 9920px;
+    top: 9970px;
 }
 .post-container-7 {
     width: 100%;
@@ -351,7 +351,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
-    top: 13480px;
+    top: 12480px;
 
     
 }
