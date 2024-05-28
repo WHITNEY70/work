@@ -11,7 +11,7 @@ body {
     height: 60px;
     width: 100%;
     background-color: #151515;
-    position: fixed;
+    
 }
 
 .navbar-container {
@@ -148,16 +148,16 @@ font-size: 20px;
 }
 .facebook-list-wrapper-2 {
     position: relative;
-    top:5350px ;
+    top:5650px ;
 
 }
 .facebook-list-wrapper-3 {
     position: relative;
-    top:9700px;
+    top:11200px;
 }
 .facebook-list-wrapper-4 {
     position: relative;
-    top:11500px;
+    top:14500px;
 }
 
 .facebook-list {
@@ -304,7 +304,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin:20px 0 ;
-    top: 2470px;
+    top: 2460px;
 }
 .post-container-3 {
     width: 100%;
@@ -313,7 +313,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
-    top: 4465px;
+    top: 4445px;
 }
 .post-container-4 {
     width: 100%;
@@ -332,7 +332,7 @@ font-size: 20px;
     border-radius: 6PX;
     color: aliceblue;
     margin: 20PX 0;
-    top: 7850PX;
+    top: 7820PX;
 }
 
 .post-container-6 {
@@ -342,7 +342,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20PX 0;
-    top: 10000px;
+    top: 9920px;
 }
 .post-container-7 {
     width: 100%;
@@ -351,7 +351,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
-    top: 12480px;
+    top: 13480px;
 
     
 }
@@ -636,16 +636,16 @@ font-size: 20px;
 .facebook-list-title-2 {
     position: relative;
     color: aliceblue;
-    top: 5550px;
+    top: 5650px;
 }
 .facebook-list-title-3 {
     position: relative;
     color: aliceblue;
-    top:9680px ;
+    top:11150px ;
 }
 .facebook-list-title-4 {
     position:relative ;
-    top: 13970px;
+    top: 13450px;
     color: aliceblue;
 }
 
